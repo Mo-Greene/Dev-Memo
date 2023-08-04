@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-08-03.md",
+                "file": "TIL/2023-08-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-08-03.md",
+                "file": "TIL/2023-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-08-03.md",
+                "file": "TIL/2023-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-08-03.md"
+                "file": "TIL/2023-08-04.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "1972e9800199cabc",
   "lastOpenFiles": [
     "TIL/2023-08-03.md",
+    "TIL/2023-08-04.md",
     "Dev/환경설정 기록/ec2.md",
     "Dev/환경설정 기록/git.md",
     "Dev/환경설정 기록/mysql.md",
