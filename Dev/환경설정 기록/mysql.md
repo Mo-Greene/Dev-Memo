@@ -21,3 +21,5 @@ https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_MySQL_%EC%8B%9C%EC%9E%91,_
 CREATE USER '계정아이디'@'localhost' IDENTIFIED BY '비밀번호';
 ```
 
+참고
+https://wildeveloperetrain.tistory.com/198
