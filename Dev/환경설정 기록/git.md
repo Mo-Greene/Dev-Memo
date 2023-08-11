@@ -8,3 +8,9 @@ https://www.freecodecamp.org/korean/news/git-clone-branch-how-to-clone-a-specifi
 ```
 git clone [url 주소]
 ```
+
+## git pull
+```
+git pull origin [브렌치명]
+```
+
