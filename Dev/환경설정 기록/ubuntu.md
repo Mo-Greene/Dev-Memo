@@ -12,3 +12,8 @@ ps -ef | grep [파일이름 포함]
 kill -9 [pid]
 ```
 
+```
+//root 권한
+sudo su
+password 치기
+```
