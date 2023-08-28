@@ -13,3 +13,5 @@ export PATH=`jdk파일 경로 c://programefile\corettojdk\등등\bin`:$PATH
 
 //위와같이 설정할 경우 echo $PATH 의 값 설정한 경로로 바뀌게 된다. (bin 중요)
 ```
+
+11과 17을 같이 쓰고있다면 주의해서 사용해야됨
