@@ -11,11 +11,10 @@
             "id": "c4392fb05266dbeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Dev/환경설정 기록/git.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/환경설정 기록/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/환경설정 기록/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/환경설정 기록/git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,6 +151,9 @@
   },
   "active": "c4392fb05266dbeb",
   "lastOpenFiles": [
+    "Dev/TDD/SpringMVC TDD 정리.md",
+    "Dev/환경설정 기록/git.md",
+    "Dev/TDD",
     "Dev/환경설정 기록/ec2.md",
     "Dev/환경설정 기록/인텔리제이.md",
     "무제 파일.canvas",
@@ -165,7 +163,6 @@
     "Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
     "Dev/환경설정 기록/mysql.md",
     "Dev/환경설정 기록/java.md",
-    "Dev/환경설정 기록/git.md",
     "TIL/2023-08-04.md",
     "TIL/2023-08-03.md",
     "Dev/환경설정 기록/무제 폴더",
