@@ -11,10 +11,11 @@
             "id": "c4392fb05266dbeb",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Dev/개발론/CleanCode/클린코드.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/개발론/CleanCode/클린코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/개발론/CleanCode/클린코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/개발론/CleanCode/클린코드.md"
+              }
             }
           },
           {
@@ -137,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 219.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,15 +156,19 @@
   },
   "active": "c4392fb05266dbeb",
   "lastOpenFiles": [
-    "Dev/TDD/SpringMVC TDD 정리.md",
+    "Dev/개발론/TDD/SpringMVC TDD 정리.md",
+    "Dev/개발론/CleanCode/클린코드.md",
+    "Dev/개발론/CleanCode",
+    "Dev/개발론/무제 파일.md",
+    "Dev/개발론",
+    "Dev/정규식.md",
     "Dev/환경설정 기록/git.md",
-    "Dev/TDD",
+    "Dev/개발론/TDD",
     "Dev/환경설정 기록/ec2.md",
     "Dev/환경설정 기록/인텔리제이.md",
     "무제 파일.canvas",
     "Dev/환경설정 기록/ubuntu.md",
     "Dev/환경설정 기록/SpringBoot.md",
-    "Dev/정규식.md",
     "Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
     "Dev/환경설정 기록/mysql.md",
     "Dev/환경설정 기록/java.md",
