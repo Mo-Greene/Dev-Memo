@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c96f59f15413ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/개발론/TDD/SpringMVC TDD 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c4392fb05266dbeb",
+  "active": "9c96f59f15413ba5",
   "lastOpenFiles": [
     "Dev/개발론/TDD/SpringMVC TDD 정리.md",
     "Dev/개발론/TDD/단위 테스트 접근 방법.md",
