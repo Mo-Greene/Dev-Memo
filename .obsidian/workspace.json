@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/개발론/예외처리/좋은 예외처리.md",
+                "file": "Dev/환경설정 기록/Mac iterm2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/개발론/예외처리/좋은 예외처리.md",
+                "file": "Dev/환경설정 기록/Mac iterm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/개발론/예외처리/좋은 예외처리.md",
+                "file": "Dev/환경설정 기록/Mac iterm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/개발론/예외처리/좋은 예외처리.md"
+                "file": "Dev/환경설정 기록/Mac iterm2.md"
               }
             }
           },
@@ -169,8 +169,17 @@
   },
   "active": "9c96f59f15413ba5",
   "lastOpenFiles": [
-    "Dev/개발론/TDD/SpringMVC TDD 정리.md",
+    "Dev/환경설정 기록/ubuntu.md",
+    "Dev/환경설정 기록/Mac iterm2.md",
+    "Dev/환경설정 기록/SpringBoot.md",
+    "Dev/환경설정 기록/mysql.md",
+    "Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
+    "Dev/환경설정 기록/java.md",
+    "Dev/환경설정 기록/인텔리제이.md",
+    "Dev/환경설정 기록/git.md",
+    "Dev/환경설정 기록/ec2.md",
     "Dev/개발론/예외처리/좋은 예외처리.md",
+    "Dev/개발론/TDD/SpringMVC TDD 정리.md",
     "Dev/개발론/예외처리",
     "Dev/개발론/TDD/단위 테스트 접근 방법.md",
     "Dev/개발론/CleanCode/클린코드.md",
@@ -178,16 +187,8 @@
     "Dev/개발론/무제 파일.md",
     "Dev/개발론",
     "Dev/정규식.md",
-    "Dev/환경설정 기록/git.md",
     "Dev/개발론/TDD",
-    "Dev/환경설정 기록/ec2.md",
-    "Dev/환경설정 기록/인텔리제이.md",
     "무제 파일.canvas",
-    "Dev/환경설정 기록/ubuntu.md",
-    "Dev/환경설정 기록/SpringBoot.md",
-    "Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
-    "Dev/환경설정 기록/mysql.md",
-    "Dev/환경설정 기록/java.md",
     "TIL/2023-08-04.md",
     "TIL/2023-08-03.md",
     "Dev/환경설정 기록/무제 폴더",
