@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "818fe7b12e5a20ff",
+        "id": "88746fc315532371",
         "type": "tabs",
         "children": [
           {
-            "id": "c4392fb05266dbeb",
+            "id": "59c331629dc03a07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/개발론/TDD/SpringMVC TDD 정리.md",
+                "file": "Dev/환경설정 기록/ec2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c96f59f15413ba5",
+            "id": "93066384cf737ca7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Dev/환경설정 기록/Mac iterm2.md",
-                "mode": "preview",
-                "source": false
+                "currentVersion": "1.4.12"
               }
             }
           }
@@ -98,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/환경설정 기록/Mac iterm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/환경설정 기록/Mac iterm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/환경설정 기록/Mac iterm2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,6 +142,16 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "9450484a9d4d6fa8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -167,19 +171,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9c96f59f15413ba5",
+  "active": "93066384cf737ca7",
   "lastOpenFiles": [
-    "Dev/환경설정 기록/ubuntu.md",
+    "Dev/환경설정 기록/Docker.md",
+    "Dev/환경설정 기록/ec2.md",
+    "Dev/환경설정 기록/git.md",
+    "Dev/환경설정 기록/java.md",
+    "Dev/환경설정 기록/Nginx 기본.md",
+    "Dev/개발론/TDD/SpringMVC TDD 정리.md",
     "Dev/환경설정 기록/Mac iterm2.md",
+    "Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
+    "Dev/환경설정 기록/인텔리제이.md",
+    "Dev/환경설정 기록/ubuntu.md",
     "Dev/환경설정 기록/SpringBoot.md",
     "Dev/환경설정 기록/mysql.md",
-    "Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
-    "Dev/환경설정 기록/java.md",
-    "Dev/환경설정 기록/인텔리제이.md",
-    "Dev/환경설정 기록/git.md",
-    "Dev/환경설정 기록/ec2.md",
     "Dev/개발론/예외처리/좋은 예외처리.md",
-    "Dev/개발론/TDD/SpringMVC TDD 정리.md",
     "Dev/개발론/예외처리",
     "Dev/개발론/TDD/단위 테스트 접근 방법.md",
     "Dev/개발론/CleanCode/클린코드.md",
