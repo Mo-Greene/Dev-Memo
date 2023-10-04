@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "88746fc315532371",
+        "id": "50257d0954e95c06",
         "type": "tabs",
         "children": [
           {
-            "id": "59c331629dc03a07",
+            "id": "a7d854088c4e7564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/환경설정 기록/ec2.md",
-                "mode": "source",
+                "file": "Dev/개발론/JPA/@MapdId.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "93066384cf737ca7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,11 +80,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0200aca923e1cc60",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "0584a9200005ec8e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/개발론/JPA/@MapdId.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/개발론/JPA/@MapdId.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,15 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "0200aca923e1cc60",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {
+                "file": "Dev/개발론/JPA/@MapdId.md"
+              }
             }
           },
           {
@@ -154,12 +147,11 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,24 +163,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "93066384cf737ca7",
+  "active": "a7d854088c4e7564",
   "lastOpenFiles": [
-    "Dev/환경설정 기록/Docker.md",
+    "Dev/개발론/JPA/@MapdId.md",
+    "Dev/개발론/JPA",
     "Dev/환경설정 기록/ec2.md",
+    "Dev/환경설정 기록/Docker.md",
+    "Dev/개발론/예외처리/좋은 예외처리.md",
+    "Dev/개발론/CleanCode/클린코드.md",
+    "Dev/개발론/TDD/SpringMVC TDD 정리.md",
+    "README.md",
     "Dev/환경설정 기록/git.md",
     "Dev/환경설정 기록/java.md",
     "Dev/환경설정 기록/Nginx 기본.md",
-    "Dev/개발론/TDD/SpringMVC TDD 정리.md",
     "Dev/환경설정 기록/Mac iterm2.md",
     "Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
     "Dev/환경설정 기록/인텔리제이.md",
     "Dev/환경설정 기록/ubuntu.md",
     "Dev/환경설정 기록/SpringBoot.md",
     "Dev/환경설정 기록/mysql.md",
-    "Dev/개발론/예외처리/좋은 예외처리.md",
     "Dev/개발론/예외처리",
     "Dev/개발론/TDD/단위 테스트 접근 방법.md",
-    "Dev/개발론/CleanCode/클린코드.md",
     "Dev/개발론/CleanCode",
     "Dev/개발론/무제 파일.md",
     "Dev/개발론",
@@ -198,7 +193,6 @@
     "TIL/2023-08-04.md",
     "TIL/2023-08-03.md",
     "Dev/환경설정 기록/무제 폴더",
-    "README.md",
     "().md",
     "Dev/환경설정 기록",
     "무제 파일.md",
