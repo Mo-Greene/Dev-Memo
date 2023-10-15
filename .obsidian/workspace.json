@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Spring Boot/더미데이터.md",
+                "file": "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Spring Boot/더미데이터.md",
+                "file": "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Spring Boot/더미데이터.md",
+                "file": "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Spring Boot/더미데이터.md"
+                "file": "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "a7d854088c4e7564",
   "lastOpenFiles": [
-    "Dev/Spring Boot/Souter.md",
     "Dev/Spring Boot/더미데이터.md",
+    "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
+    "Dev/Spring Boot/Souter.md",
     "Dev/Spring Boot",
     "Dev/개발론/TDD/SpringMVC TDD 정리.md",
     "Dev/개발론/TDD/Mock.md",
@@ -199,7 +200,6 @@
     "Dev/환경설정 기록/무제 폴더",
     "().md",
     "Dev/환경설정 기록",
-    "무제 파일.md",
     "Dev",
     "무제 폴더/무제 폴더"
   ]
