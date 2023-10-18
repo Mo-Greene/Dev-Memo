@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7d854088c4e7564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c314e4322218da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Spring Boot/ModelMapper vs MapStruct.md",
+                "file": "Dev/개발론/JPA/QueryDsl transform groupBy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Spring Boot/ModelMapper vs MapStruct.md",
+                "file": "Dev/개발론/JPA/QueryDsl transform groupBy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Spring Boot/ModelMapper vs MapStruct.md",
+                "file": "Dev/개발론/JPA/QueryDsl transform groupBy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Spring Boot/ModelMapper vs MapStruct.md"
+                "file": "Dev/개발론/JPA/QueryDsl transform groupBy.md"
               }
             }
           },
@@ -178,14 +165,16 @@
   },
   "active": "4c314e4322218da0",
   "lastOpenFiles": [
+    "Dev/개발론/JPA/QueryDsl 레퍼런스 문서.md",
+    "Dev/개발론/JPA/QueryDsl transform groupBy.md",
+    "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
+    "Dev/개발론/JPA/@MapdId.md",
     "Dev/Spring Boot/ModelMapper vs MapStruct.md",
     "Dev/Spring Boot/더미데이터.md",
-    "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
     "Dev/Spring Boot/Souter.md",
     "Dev/Spring Boot",
     "Dev/개발론/TDD/SpringMVC TDD 정리.md",
     "Dev/개발론/TDD/Mock.md",
-    "Dev/개발론/JPA/@MapdId.md",
     "Dev/개발론/JPA",
     "Dev/환경설정 기록/ec2.md",
     "Dev/환경설정 기록/Docker.md",
@@ -209,8 +198,6 @@
     "Dev/정규식.md",
     "Dev/개발론/TDD",
     "무제 파일.canvas",
-    "TIL/2023-08-04.md",
-    "TIL/2023-08-03.md",
     "Dev/환경설정 기록/무제 폴더",
     "Dev/환경설정 기록",
     "Dev",
