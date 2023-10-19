@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/개발론/JPA/QueryDsl transform groupBy.md",
+                "file": "Dev/개발론/JPA/querydsl 과 동적쿼리.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/개발론/JPA/QueryDsl transform groupBy.md",
+                "file": "Dev/개발론/JPA/querydsl 과 동적쿼리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/개발론/JPA/QueryDsl transform groupBy.md",
+                "file": "Dev/개발론/JPA/querydsl 과 동적쿼리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/개발론/JPA/QueryDsl transform groupBy.md"
+                "file": "Dev/개발론/JPA/querydsl 과 동적쿼리.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "4c314e4322218da0",
   "lastOpenFiles": [
-    "Dev/개발론/JPA/QueryDsl 레퍼런스 문서.md",
     "Dev/개발론/JPA/QueryDsl transform groupBy.md",
+    "Dev/개발론/JPA/querydsl 과 동적쿼리.md",
+    "Dev/개발론/JPA/QueryDsl 레퍼런스 문서.md",
     "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
     "Dev/개발론/JPA/@MapdId.md",
     "Dev/Spring Boot/ModelMapper vs MapStruct.md",
@@ -195,7 +196,6 @@
     "Dev/개발론/CleanCode",
     "Dev/개발론/무제 파일.md",
     "Dev/개발론",
-    "Dev/정규식.md",
     "Dev/개발론/TDD",
     "무제 파일.canvas",
     "Dev/환경설정 기록/무제 폴더",
