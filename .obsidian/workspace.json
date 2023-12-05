@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c31fcf3fd452f250",
+        "id": "01c1aa794b2abeb7",
         "type": "tabs",
         "children": [
           {
-            "id": "ad62b7e6b85f44b1",
+            "id": "81ad7e3f26b0650b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Dev/개발론/JPA/QueryDsl case(when,then), coalesce(ifnull), concat.md",
-                "staged": false
+                "file": "2. Memo/SpringBoot/소셜 로그인.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -37,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TIL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200
   },
   "right": {
     "id": "6d91fd87b1309416",
@@ -78,41 +79,6 @@
         "id": "ddbf2b0e9dfe3a49",
         "type": "tabs",
         "children": [
-          {
-            "id": "0200aca923e1cc60",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0584a9200005ec8e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2d6f2efdb2715ca3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "d0749f3673af1b41",
             "type": "leaf",
@@ -125,15 +91,52 @@
             }
           },
           {
-            "id": "611b3207555f8485",
+            "id": "7ba9134d5348aab6",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "9450484a9d4d6fa8",
+            "id": "71454ac97e793db4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "200d0518a0f87ea6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Memo/SpringBoot/소셜 로그인.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f312d4a09389217b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Memo/SpringBoot/소셜 로그인.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31f39f6d4d16dff5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -141,12 +144,23 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "edf0456f034b69fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Memo/SpringBoot/소셜 로그인.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,47 +169,49 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad62b7e6b85f44b1",
+  "active": "81ad7e3f26b0650b",
   "lastOpenFiles": [
-    "Dev/개발론/TDD/외부 API 테스트 방법.md",
-    "Dev/개발론/TDD/Mock.md",
-    "Dev/개발론/TDD/SpringMVC TDD 정리.md",
-    "Dev/개발론/JPA/QueryDsl case(when,then), coalesce(ifnull), concat.md",
-    "Dev/개발론/JPA/QueryDsl transform groupBy.md",
-    "Dev/개발론/기형적인 코드.md",
-    "Dev/Spring Boot/더미데이터.md",
-    "Dev/환경설정 기록/java.md",
-    "Dev/환경설정 기록/Mac iterm2.md",
-    "Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
-    "Dev/환경설정 기록/ec2.md",
-    "Dev/환경설정 기록/Docker.md",
-    "Dev/환경설정 기록/인텔리제이.md",
-    "Dev/개발론/JPA/querydsl 과 동적쿼리.md",
-    "Dev/개발론/JPA/QueryDsl 레퍼런스 문서.md",
-    "Dev/개발론/JPA/@MapdId.md",
-    "Dev/환경설정 기록/git.md",
-    "Dev/환경설정 기록/mysql.md",
-    "Dev/환경설정 기록/Nginx 기본.md",
-    "Dev/환경설정 기록/SpringBoot.md",
-    "Dev/환경설정 기록/ubuntu.md",
-    "Dev/Spring Boot/멀티 서버에서 스케쥴러 작동.md",
-    "Dev/Spring Boot/ModelMapper vs MapStruct.md",
-    "Dev/Spring Boot/Scouter.md",
-    "Dev/Spring Boot/springboot 3.x 파라미터 로깅.md",
-    "Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
-    "Dev/개발론/SpringBoot",
-    "Dev/Spring Boot",
-    "Dev/개발론/JPA",
-    "Dev/개발론/예외처리",
-    "Dev/개발론/CleanCode",
-    "Dev/개발론",
-    "Dev/개발론/TDD",
+    "2. Memo/SpringBoot/Cookie.md",
+    "2. Memo/SpringBoot/소셜 로그인.md",
+    "0. 근무일지/2023-12-06.md",
+    "0. 근무일지/2023-12-05.md",
+    "4. Dev/개발론/CleanCode/클린코드.md",
+    "2. Memo/SpringBoot",
+    "README.md",
+    "3. Think/Drawing 2023-12-05 09.35.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-05 09.33.02.excalidraw.md",
+    "3. Think",
+    "Excalidraw",
+    "Coding/무제 폴더",
+    "4. Dev/정규식.md",
+    "1. Blog",
+    "TIL/2023-12-06.md",
+    "TIL/무제 파일.canvas",
+    "4. Dev/Spring Boot/더미데이터.md",
+    "4. Dev/Spring Boot/멀티 서버에서 스케쥴러 작동.md",
+    "4. Dev/Spring Boot/ModelMapper vs MapStruct.md",
+    "4. Dev/Spring Boot/Scouter.md",
+    "4. Dev/Spring Boot/springboot 3.x 파라미터 로깅.md",
+    "4. Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
+    "ToDo/무제 파일.md",
+    "ToDo",
+    "2. Memo",
+    "Code.md",
+    "attachment.md",
+    "TIL.md",
     "무제 파일.canvas",
-    "Dev/환경설정 기록/무제 폴더",
-    "Dev/환경설정 기록",
-    "Dev"
+    "0. 근무일지",
+    "무제 파일.md",
+    "무제 파일 1.md",
+    "4. Dev/개발론/JPA/QueryDsl case(when,then), coalesce(ifnull), concat.md",
+    "4. Dev/개발론/TDD/외부 API 테스트 방법.md",
+    "4. Dev/개발론/TDD/Mock.md",
+    "4. Dev/개발론/TDD/SpringMVC TDD 정리.md",
+    "4. Dev/개발론/SpringBoot",
+    "4. Dev/Spring Boot"
   ]
 }
