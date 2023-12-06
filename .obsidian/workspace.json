@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Memo/SpringBoot/소셜 로그인.md",
+                "file": "0. 근무일지/2023-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Memo/SpringBoot/소셜 로그인.md",
+                "file": "0. 근무일지/2023-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Memo/SpringBoot/소셜 로그인.md",
+                "file": "0. 근무일지/2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,12 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Memo/SpringBoot/소셜 로그인.md"
+                "file": "0. 근무일지/2023-12-06.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,9 +175,23 @@
   },
   "active": "81ad7e3f26b0650b",
   "lastOpenFiles": [
+    "2. Memo/Java/DesignPattern/Strategy Pattern.md",
+    "2. Memo/Java/DesignPattern/Untitled Diagram.svg",
+    "2. Memo/Java/DesignPattern/Strategy diagram.md",
+    "2. Memo/Java/DesignPattern",
+    "2. Memo/Java/무제 파일.canvas",
     "2. Memo/SpringBoot/Cookie.md",
     "2. Memo/SpringBoot/소셜 로그인.md",
+    "2. Memo/Java",
+    "3. Think/heyjob",
+    "3. Think/heyjob/프로모션 로직.canvas",
+    "99. attached/Pasted image 20231206082607.png",
+    "99. attached/Pasted image 20231206082250.png",
+    "99. attached/Pasted image 20231206091759.png",
+    "99. attached/Pasted image 20231206094624.png",
+    "99. attached/Pasted image 20231206094826.png",
     "0. 근무일지/2023-12-06.md",
+    "99. attached",
     "0. 근무일지/2023-12-05.md",
     "4. Dev/개발론/CleanCode/클린코드.md",
     "2. Memo/SpringBoot",
@@ -199,19 +213,12 @@
     "4. Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
     "ToDo/무제 파일.md",
     "ToDo",
-    "2. Memo",
     "Code.md",
     "attachment.md",
     "TIL.md",
     "무제 파일.canvas",
-    "0. 근무일지",
     "무제 파일.md",
     "무제 파일 1.md",
-    "4. Dev/개발론/JPA/QueryDsl case(when,then), coalesce(ifnull), concat.md",
-    "4. Dev/개발론/TDD/외부 API 테스트 방법.md",
-    "4. Dev/개발론/TDD/Mock.md",
-    "4. Dev/개발론/TDD/SpringMVC TDD 정리.md",
-    "4. Dev/개발론/SpringBoot",
-    "4. Dev/Spring Boot"
+    "4. Dev/개발론/JPA/QueryDsl case(when,then), coalesce(ifnull), concat.md"
   ]
 }
