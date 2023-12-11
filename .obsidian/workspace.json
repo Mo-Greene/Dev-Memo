@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 근무일지/2023-12-07.md",
+                "file": "0. 근무일지/2023-12-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 근무일지/2023-12-07.md",
+                "file": "0. 근무일지/2023-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 근무일지/2023-12-07.md",
+                "file": "0. 근무일지/2023-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 근무일지/2023-12-07.md"
+                "file": "0. 근무일지/2023-12-11.md"
               }
             }
           }
@@ -175,14 +175,18 @@
   },
   "active": "81ad7e3f26b0650b",
   "lastOpenFiles": [
-    "0. 근무일지/2023-12-05.md",
-    "0. 근무일지/2023-12-07.md",
-    "0. 근무일지/2023-12-06.md",
-    "1. Memo/Java/DesignPattern/Untitled Diagram.svg",
+    "2. Think/Macbook.md",
+    "1. Memo/React/QuillEditor 적용.md",
     "1. Memo/Java/DesignPattern/Strategy Pattern.md",
+    "1. Memo/React",
+    "1. Memo/Java/DesignPattern/Untitled Diagram.svg",
+    "0. 근무일지/2023-12-11.md",
     "1. Memo/Java/DesignPattern/Strategy diagram.md",
-    "1. Memo/SpringBoot/Cookie.md",
     "1. Memo/SpringBoot/소셜 로그인.md",
+    "1. Memo/SpringBoot/Cookie.md",
+    "0. 근무일지/2023-12-07.md",
+    "0. 근무일지/2023-12-05.md",
+    "0. 근무일지/2023-12-06.md",
     "2. Think/heyjob/프로모션 로직.canvas",
     "무제 파일.md",
     "1. Memo/Java/DesignPattern",
@@ -214,11 +218,8 @@
     "3. Dev/Spring Boot/springboot 3.x 파라미터 로깅.md",
     "3. Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
     "ToDo/무제 파일.md",
-    "ToDo",
     "Code.md",
     "attachment.md",
-    "TIL.md",
-    "무제 파일.canvas",
-    "무제 파일 1.md"
+    "무제 파일.canvas"
   ]
 }
