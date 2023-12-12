@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "01c1aa794b2abeb7",
+        "id": "4388692d9c10466b",
         "type": "tabs",
         "children": [
           {
-            "id": "81ad7e3f26b0650b",
+            "id": "96bd83ffbf900720",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. 근무일지/2023-12-12.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TIL",
+                "query": "tag:#디자인패턴",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 근무일지/2023-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 근무일지/2023-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. 근무일지/2023-12-12.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,20 +166,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81ad7e3f26b0650b",
+  "active": "96bd83ffbf900720",
   "lastOpenFiles": [
-    "2. Think/Macbook.md",
-    "2. Think/heyjob/프로모션 로직.canvas",
-    "1. Memo/React/QuillEditor 적용.md",
-    "0. 근무일지/2023-12-12.md",
-    "0. 근무일지/2023-12-11.md",
-    "1. Memo/Java/DesignPattern/Strategy Pattern.md",
-    "1. Memo/React",
     "1. Memo/Java/DesignPattern/Untitled Diagram.svg",
-    "1. Memo/Java/DesignPattern/Strategy diagram.md",
-    "1. Memo/SpringBoot/소셜 로그인.md",
+    "0. 근무일지/2023-12-12.md",
+    "1. Memo/참고/힘들어하는 주니어들을 위하여.md",
     "1. Memo/SpringBoot/Cookie.md",
+    "1. Memo/SpringBoot/소셜 로그인.md",
+    "1. Memo/Java/DesignPattern/Strategy diagram.md",
+    "1. Memo/Java/DesignPattern/Strategy Pattern.md",
+    "1. Memo/React/QuillEditor 적용.md",
+    "0. 근무일지/2023-12-11.md",
     "0. 근무일지/2023-12-07.md",
+    "2. Think/Macbook.md",
+    "1. Memo/참고",
+    "2. Think/heyjob/프로모션 로직.canvas",
+    "1. Memo/React",
     "0. 근무일지/2023-12-05.md",
     "0. 근무일지/2023-12-06.md",
     "무제 파일.md",
@@ -209,7 +204,6 @@
     "Excalidraw",
     "Coding/무제 폴더",
     "3. Dev/정규식.md",
-    "4. Blog",
     "TIL/2023-12-06.md",
     "TIL/무제 파일.canvas",
     "3. Dev/Spring Boot/더미데이터.md",
@@ -218,7 +212,6 @@
     "3. Dev/Spring Boot/Scouter.md",
     "3. Dev/Spring Boot/springboot 3.x 파라미터 로깅.md",
     "3. Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
-    "ToDo/무제 파일.md",
     "무제 파일.canvas"
   ]
 }
