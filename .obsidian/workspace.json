@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4388692d9c10466b",
+        "id": "fa96f974df7cc1ca",
         "type": "tabs",
         "children": [
           {
-            "id": "96bd83ffbf900720",
+            "id": "9b21d6df851476e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. 목표/2024년 목표.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#디자인패턴",
+                "query": "tag:#참고",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. 목표/2024년 목표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. 목표/2024년 목표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. 목표/2024년 목표.md"
+              }
             }
           }
         ],
@@ -166,52 +173,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96bd83ffbf900720",
+  "active": "9b21d6df851476e9",
   "lastOpenFiles": [
-    "1. Memo/Java/DesignPattern/Untitled Diagram.svg",
-    "0. 근무일지/2023-12-12.md",
-    "1. Memo/참고/힘들어하는 주니어들을 위하여.md",
-    "1. Memo/SpringBoot/Cookie.md",
-    "1. Memo/SpringBoot/소셜 로그인.md",
-    "1. Memo/Java/DesignPattern/Strategy diagram.md",
-    "1. Memo/Java/DesignPattern/Strategy Pattern.md",
-    "1. Memo/React/QuillEditor 적용.md",
-    "0. 근무일지/2023-12-11.md",
-    "0. 근무일지/2023-12-07.md",
-    "2. Think/Macbook.md",
-    "1. Memo/참고",
-    "2. Think/heyjob/프로모션 로직.canvas",
-    "1. Memo/React",
-    "0. 근무일지/2023-12-05.md",
-    "0. 근무일지/2023-12-06.md",
-    "무제 파일.md",
-    "1. Memo/Java/DesignPattern",
+    "0. 목표/2023년 목표.md",
+    "0. 목표/2024년 목표.md",
+    "1. 근무일지/2023-12-15.md",
+    "2. Memo/SpringBoot/package-info.md",
+    "1. 근무일지/2023-12-14.md",
+    "1. 근무일지/2023-12-12.md",
+    "1. 근무일지/2023-12-13.md",
+    "3. Think/Macbook.md",
+    "3. Think/heyjob/프로모션 로직.canvas",
+    "1. 근무일지/2023-12-05.md",
+    "1. 근무일지/2023-12-06.md",
+    "1. 근무일지/2023-12-07.md",
+    "1. 근무일지/2023-12-11.md",
+    "0. 목표",
+    "4. Dev/정규식.md",
+    "2. Memo/참고/힘들어하는 주니어들을 위하여.md",
+    "4. Dev/환경설정 기록/인텔리제이.md",
+    "4. Dev/환경설정 기록/Docker.md",
+    "4. Dev/환경설정 기록/ec2.md",
+    "4. Dev/환경설정 기록/git.md",
+    "4. Dev/환경설정 기록/java.md",
+    "4. Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
+    "4. Dev/환경설정 기록/SpringBoot.md",
+    "4. Dev/환경설정 기록/ubuntu.md",
+    "4. Dev/개발론/기형적인 코드.md",
+    "4. Dev/개발론/TDD/외부 API 테스트 방법.md",
+    "4. Dev/개발론/TDD/Mock.md",
+    "4. Dev/개발론/TDD/SpringMVC TDD 정리.md",
+    "2. Memo/Java/DesignPattern/Untitled Diagram.svg",
+    "2. Memo/참고",
+    "2. Memo/React",
+    "2. Memo/Java/DesignPattern",
     "2. Memo/Java/무제 파일.canvas",
-    "1. Memo/Java",
-    "2. Think/heyjob",
+    "2. Memo/Java",
+    "3. Think/heyjob",
     "99. attached/Pasted image 20231206082607.png",
     "99. attached/Pasted image 20231206082250.png",
     "99. attached/Pasted image 20231206091759.png",
     "99. attached/Pasted image 20231206094624.png",
     "99. attached/Pasted image 20231206094826.png",
     "99. attached",
-    "3. Dev/개발론/CleanCode/클린코드.md",
-    "1. Memo/SpringBoot",
-    "README.md",
-    "3. Think/Drawing 2023-12-05 09.35.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-05 09.33.02.excalidraw.md",
-    "2. Think",
+    "2. Memo/SpringBoot",
+    "3. Think",
     "Excalidraw",
-    "Coding/무제 폴더",
-    "3. Dev/정규식.md",
-    "TIL/2023-12-06.md",
     "TIL/무제 파일.canvas",
-    "3. Dev/Spring Boot/더미데이터.md",
-    "3. Dev/Spring Boot/멀티 서버에서 스케쥴러 작동.md",
-    "3. Dev/Spring Boot/ModelMapper vs MapStruct.md",
-    "3. Dev/Spring Boot/Scouter.md",
-    "3. Dev/Spring Boot/springboot 3.x 파라미터 로깅.md",
-    "3. Dev/Spring Boot/SpringSecurity 최신 h2 설정.md",
     "무제 파일.canvas"
   ]
 }
