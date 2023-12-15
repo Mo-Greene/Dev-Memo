@@ -11,8 +11,11 @@
             "id": "96bd83ffbf900720",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/appearance.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -61,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,22 +170,22 @@
   },
   "active": "96bd83ffbf900720",
   "lastOpenFiles": [
-    "1. Memo/Java/DesignPattern/Untitled Diagram.svg",
+    "0. 근무일지/2023-12-05.md",
+    "0. 근무일지/2023-12-06.md",
+    "0. 근무일지/2023-12-07.md",
+    "0. 근무일지/2023-12-11.md",
     "0. 근무일지/2023-12-12.md",
+    "1. Memo/Java/DesignPattern/Untitled Diagram.svg",
     "1. Memo/참고/힘들어하는 주니어들을 위하여.md",
     "1. Memo/SpringBoot/Cookie.md",
     "1. Memo/SpringBoot/소셜 로그인.md",
     "1. Memo/Java/DesignPattern/Strategy diagram.md",
     "1. Memo/Java/DesignPattern/Strategy Pattern.md",
     "1. Memo/React/QuillEditor 적용.md",
-    "0. 근무일지/2023-12-11.md",
-    "0. 근무일지/2023-12-07.md",
     "2. Think/Macbook.md",
     "1. Memo/참고",
     "2. Think/heyjob/프로모션 로직.canvas",
     "1. Memo/React",
-    "0. 근무일지/2023-12-05.md",
-    "0. 근무일지/2023-12-06.md",
     "무제 파일.md",
     "1. Memo/Java/DesignPattern",
     "2. Memo/Java/무제 파일.canvas",
