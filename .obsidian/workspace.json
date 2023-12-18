@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 목표/2024년 목표.md",
+                "file": "1. 근무일지/2023/12/18 (월) 근무일지.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "right": {
     "id": "6d91fd87b1309416",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 목표/2024년 목표.md",
+                "file": "1. 근무일지/2023/12/18 (월) 근무일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 목표/2024년 목표.md",
+                "file": "1. 근무일지/2023/12/18 (월) 근무일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 목표/2024년 목표.md"
+                "file": "1. 근무일지/2023/12/18 (월) 근무일지.md"
               }
             }
           }
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,50 +175,50 @@
   },
   "active": "9b21d6df851476e9",
   "lastOpenFiles": [
+    "1. 근무일지/2023/12/15 (금) 근무일지.md",
+    "1. 근무일지/2023/12/14 (목) 근무일지.md",
+    "1. 근무일지/2023/12/18 (월) 근무일지.md",
     "0. 목표/2023년 목표.md",
-    "0. 목표/2024년 목표.md",
-    "1. 근무일지/2023-12-15.md",
+    "1. 근무일지/2023/12/13 (수) 근무일지.md",
+    "1. 근무일지/2023/12/12 (화) 근무일지.md",
+    "1. 근무일지/2023/12/11 (월) 근무일지.md",
+    "1. 근무일지/2023/12/07 (목) 근무일지.md",
+    "1. 근무일지/2023/12/06 (수) 근무일지.md",
+    "1. 근무일지/2023/12/05 (화) 근무일지.md",
+    "1. 근무일지/2023/12",
+    "1. 근무일지/23/12/18 (월) 근무일지.md",
+    "1. 근무일지/23/12",
+    "1. 근무일지/23",
+    "1. 근무일지/2023/12월/2023-12-18.md",
+    "2. Memo/SpringBoot/패키지 구조에 대해서.md",
     "2. Memo/SpringBoot/package-info.md",
-    "1. 근무일지/2023-12-14.md",
-    "1. 근무일지/2023-12-12.md",
-    "1. 근무일지/2023-12-13.md",
+    "2. Memo/SpringBoot/JPA 벌크성 수정.md",
+    "2. Memo/SpringBoot/Cookie.md",
+    "2. Memo/SpringBoot/소셜 로그인.md",
+    "2. Memo/참고/힘들어하는 주니어들을 위하여.md",
+    "2. Memo/SpringBoot/무제 폴더",
+    "1. 근무일지/2023/12월",
+    "1. 근무일지/2023",
+    "0. 목표/2024년 목표.md",
     "3. Think/Macbook.md",
     "3. Think/heyjob/프로모션 로직.canvas",
-    "1. 근무일지/2023-12-05.md",
-    "1. 근무일지/2023-12-06.md",
-    "1. 근무일지/2023-12-07.md",
-    "1. 근무일지/2023-12-11.md",
     "0. 목표",
     "4. Dev/정규식.md",
-    "2. Memo/참고/힘들어하는 주니어들을 위하여.md",
     "4. Dev/환경설정 기록/인텔리제이.md",
     "4. Dev/환경설정 기록/Docker.md",
     "4. Dev/환경설정 기록/ec2.md",
     "4. Dev/환경설정 기록/git.md",
     "4. Dev/환경설정 기록/java.md",
-    "4. Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
-    "4. Dev/환경설정 기록/SpringBoot.md",
-    "4. Dev/환경설정 기록/ubuntu.md",
-    "4. Dev/개발론/기형적인 코드.md",
-    "4. Dev/개발론/TDD/외부 API 테스트 방법.md",
-    "4. Dev/개발론/TDD/Mock.md",
-    "4. Dev/개발론/TDD/SpringMVC TDD 정리.md",
     "2. Memo/Java/DesignPattern/Untitled Diagram.svg",
     "2. Memo/참고",
     "2. Memo/React",
     "2. Memo/Java/DesignPattern",
     "2. Memo/Java/무제 파일.canvas",
-    "2. Memo/Java",
-    "3. Think/heyjob",
     "99. attached/Pasted image 20231206082607.png",
     "99. attached/Pasted image 20231206082250.png",
     "99. attached/Pasted image 20231206091759.png",
     "99. attached/Pasted image 20231206094624.png",
     "99. attached/Pasted image 20231206094826.png",
-    "99. attached",
-    "2. Memo/SpringBoot",
-    "3. Think",
-    "Excalidraw",
     "TIL/무제 파일.canvas",
     "무제 파일.canvas"
   ]
