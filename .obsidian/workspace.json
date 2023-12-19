@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md",
+                "file": "1. 근무일지/2023/12/06 (수) 근무일지.md",
                 "mode": "preview",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md",
+                "file": "1. 근무일지/2023/12/06 (수) 근무일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md",
+                "file": "1. 근무일지/2023/12/06 (수) 근무일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md"
+                "file": "1. 근무일지/2023/12/06 (수) 근무일지.md"
               }
             }
           }
@@ -175,19 +175,20 @@
   },
   "active": "8b280a21b85b388d",
   "lastOpenFiles": [
-    "1. 근무일지/2023/12/19 (화) 근무일지.md",
+    "1. 근무일지/2023/12/05 (화) 근무일지.md",
     "1. 근무일지/2023/12/20 (수) 근무일지.md",
-    "Untitled Diagram.svg",
+    "1. 근무일지/2023/12/19 (화) 근무일지.md",
     "1. 근무일지/2023/12/18 (월) 근무일지.md",
-    "1. 근무일지/2023/12/15 (금) 근무일지.md",
     "1. 근무일지/2023/12/14 (목) 근무일지.md",
+    "1. 근무일지/2023/12/15 (금) 근무일지.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled Diagram.svg",
     "0. 목표/2023년 목표.md",
     "1. 근무일지/2023/12/13 (수) 근무일지.md",
     "1. 근무일지/2023/12/12 (화) 근무일지.md",
     "1. 근무일지/2023/12/11 (월) 근무일지.md",
     "1. 근무일지/2023/12/07 (목) 근무일지.md",
     "1. 근무일지/2023/12/06 (수) 근무일지.md",
-    "1. 근무일지/2023/12/05 (화) 근무일지.md",
     "1. 근무일지/2023/12",
     "1. 근무일지/23/12/18 (월) 근무일지.md",
     "1. 근무일지/23/12",
@@ -209,7 +210,6 @@
     "4. Dev/정규식.md",
     "4. Dev/환경설정 기록/인텔리제이.md",
     "4. Dev/환경설정 기록/Docker.md",
-    "4. Dev/환경설정 기록/ec2.md",
     "2. Memo/Java/DesignPattern/Untitled Diagram.svg",
     "2. Memo/참고",
     "2. Memo/React",
