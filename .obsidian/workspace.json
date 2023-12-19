@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fa96f974df7cc1ca",
+        "id": "b9ead977f47d4110",
         "type": "tabs",
         "children": [
           {
-            "id": "9b21d6df851476e9",
+            "id": "8b280a21b85b388d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "1. 근무일지/2023/12/18 (월) 근무일지.md",
-                "staged": true
+                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -32,7 +33,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d939b7e68f01718",
+            "id": "d0041fd4e8d68551",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -111,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,11 +150,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,8 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71454ac97e793db4",
+  "active": "8b280a21b85b388d",
   "lastOpenFiles": [
+    "1. 근무일지/2023/12/19 (화) 근무일지.md",
+    "1. 근무일지/2023/12/20 (수) 근무일지.md",
+    "Untitled Diagram.svg",
     "1. 근무일지/2023/12/18 (월) 근무일지.md",
     "1. 근무일지/2023/12/15 (금) 근무일지.md",
     "1. 근무일지/2023/12/14 (목) 근무일지.md",
@@ -202,8 +210,6 @@
     "4. Dev/환경설정 기록/인텔리제이.md",
     "4. Dev/환경설정 기록/Docker.md",
     "4. Dev/환경설정 기록/ec2.md",
-    "4. Dev/환경설정 기록/git.md",
-    "4. Dev/환경설정 기록/java.md",
     "2. Memo/Java/DesignPattern/Untitled Diagram.svg",
     "2. Memo/참고",
     "2. Memo/React",
