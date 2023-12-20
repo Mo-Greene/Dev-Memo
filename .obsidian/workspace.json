@@ -11,11 +11,8 @@
             "id": "96bd83ffbf900720",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -151,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,8 +165,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71454ac97e793db4",
+  "active": "96bd83ffbf900720",
   "lastOpenFiles": [
+    "2. Memo/참고/힘들어하는 주니어들을 위하여.md",
+    "0. 목표/2023년 목표.md",
+    "1. 근무일지/2023-12-15.md",
+    "1. 근무일지/2023-12-13.md",
+    "1. 근무일지/2023-12-14.md",
     "4. Dev/개발론/예외처리/좋은 예외처리.md",
     "4. Dev/개발론/TDD/외부 API 테스트 방법.md",
     "4. Dev/개발론/TDD/SpringMVC TDD 정리.md",
@@ -191,16 +193,11 @@
     "4. Dev/환경설정 기록/Nginx 기본.md",
     "4. Dev/환경설정 기록/Mac iterm2.md",
     "4. Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
-    "4. Dev/환경설정 기록/Docker.md",
     "4. Dev/개발론/예외처리",
-    "4. Dev/개발론/기형적인 코드.md",
     "4. Dev/개발론/TDD",
     "4. Dev/개발론/SpringBoot",
     "4. Dev/개발론/JPA",
     "4. Dev/개발론/CleanCode",
-    "4. Dev/Spring Boot/멀티 서버에서 스케쥴러 작동.md",
-    "4. Dev/Spring Boot/더미데이터.md",
-    "4. Dev/Spring Boot/springboot 3.x 파라미터 로깅.md",
     "4. Dev/환경설정 기록",
     "4. Dev/개발론",
     "4. Dev/Spring Boot",
