@@ -4,30 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4388692d9c10466b",
+        "id": "97aba2fca586e838",
         "type": "tabs",
         "children": [
           {
-            "id": "96bd83ffbf900720",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b084ab4a94f95d23",
+            "id": "bf4b5fc09bc3dfee",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "0. 목표/2023년 목표.md",
-                "staged": true
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b084ab4a94f95d23",
+  "active": "71454ac97e793db4",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "99. attached/Pasted image 20231220101622.png",
