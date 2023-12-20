@@ -14,8 +14,20 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b084ab4a94f95d23",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "0. 목표/2023년 목표.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,8 +177,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96bd83ffbf900720",
+  "active": "b084ab4a94f95d23",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "99. attached/Pasted image 20231220101622.png",
+    "99. attached/Pasted image 20231220101046.png",
+    "99. attached/Pasted image 20231220101030.png",
+    "99. attached/Pasted image 20231220100743.png",
+    "99. attached/Pasted image 20231220100306.png",
+    "99. attached/Pasted image 20231220100104.png",
+    "99. attached/Pasted image 20231220095624.png",
+    "99. attached/Pasted image 20231220095321.png",
+    "99. attached/Pasted image 20231220094951.png",
+    "99. attached/Pasted image 20231220094848.png",
+    "99. attached",
+    "3. Think/단기알바/프로모션 로직.canvas",
+    "3. Think/단기알바/수정사항 정리.md",
+    "3. Think/단기알바",
+    "3. Think/Mo-Greene Code Convention.md",
+    "2. Memo/SpringBoot/패키지 구조에 대해서.md",
+    "1. 근무일지/2023/12/20 (수) 근무일지.md",
+    "1. 근무일지/2023/12/19 (화) 근무일지.md",
+    "1. 근무일지/2023/12/18 (월) 근무일지.md",
+    "1. 근무일지/2023/12/15 (금) 근무일지.md",
+    "1. 근무일지/2023/12/14 (목) 근무일지.md",
+    "1. 근무일지/2023/12/13 (수) 근무일지.md",
+    "1. 근무일지/2023/12/12 (화) 근무일지.md",
+    "1. 근무일지/2023/12/11 (월) 근무일지.md",
+    "1. 근무일지/2023/12/07 (목) 근무일지.md",
+    "1. 근무일지/2023/12/06 (수) 근무일지.md",
+    "1. 근무일지/2023/12/05 (화) 근무일지.md",
+    "1. 근무일지/2023/12",
+    "1. 근무일지/2023",
     "2. Memo/참고/힘들어하는 주니어들을 위하여.md",
     "0. 목표/2023년 목표.md",
     "1. 근무일지/2023-12-15.md",
@@ -178,41 +220,15 @@
     "4. Dev/개발론/TDD/Mock.md",
     "4. Dev/개발론/SpringBoot/SpringBoot 3.x.md",
     "4. Dev/개발론/JPA/querydsl 과 동적쿼리.md",
-    "4. Dev/개발론/JPA/QueryDsl 레퍼런스 문서.md",
-    "4. Dev/개발론/JPA/QueryDsl transform groupBy.md",
-    "4. Dev/개발론/JPA/QueryDsl case(when,then), coalesce(ifnull), concat.md",
-    "4. Dev/개발론/JPA/@MapdId.md",
-    "4. Dev/개발론/CleanCode/클린코드.md",
-    "4. Dev/환경설정 기록/인텔리제이.md",
-    "4. Dev/환경설정 기록/ubuntu.md",
-    "4. Dev/환경설정 기록/mysql.md",
-    "4. Dev/환경설정 기록/java.md",
-    "4. Dev/환경설정 기록/git.md",
-    "4. Dev/환경설정 기록/ec2.md",
-    "4. Dev/환경설정 기록/SpringBoot.md",
-    "4. Dev/환경설정 기록/Nginx 기본.md",
-    "4. Dev/환경설정 기록/Mac iterm2.md",
-    "4. Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
     "4. Dev/개발론/예외처리",
     "4. Dev/개발론/TDD",
     "4. Dev/개발론/SpringBoot",
     "4. Dev/개발론/JPA",
     "4. Dev/개발론/CleanCode",
     "4. Dev/환경설정 기록",
-    "4. Dev/개발론",
-    "4. Dev/Spring Boot",
-    "4. Dev",
     "3. Think/heyjob/프로모션 로직.canvas",
-    "3. Think/heyjob",
-    "2. Memo/Java/DesignPattern/Untitled Diagram.svg",
-    "1. Memo/Java/DesignPattern/Untitled Diagram.svg",
     "2. Think/heyjob/프로모션 로직.canvas",
     "2. Memo/Java/무제 파일.canvas",
-    "99. attached/Pasted image 20231206082607.png",
-    "99. attached/Pasted image 20231206082250.png",
-    "99. attached/Pasted image 20231206091759.png",
-    "99. attached/Pasted image 20231206094624.png",
-    "99. attached/Pasted image 20231206094826.png",
     "TIL/무제 파일.canvas",
     "무제 파일.canvas"
   ]
