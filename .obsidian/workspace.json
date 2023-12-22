@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "97aba2fca586e838",
+        "id": "148a4a074e121acd",
         "type": "tabs",
         "children": [
           {
-            "id": "bf4b5fc09bc3dfee",
+            "id": "e4dca94a7b7c239e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "0. 목표/2024년 목표.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -32,7 +33,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d939b7e68f01718",
+            "id": "d0041fd4e8d68551",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#디자인패턴",
+                "query": "tag:#참고",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 212.5
   },
   "right": {
     "id": "6d91fd87b1309416",
@@ -111,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. 목표/2024년 목표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. 목표/2024년 목표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +150,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. 목표/2024년 목표.md"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,9 +173,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71454ac97e793db4",
+  "active": "e4dca94a7b7c239e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "0. 목표/2023년 목표.md",
+    "2. Memo/IntelliJ/IntelliJ Http Client.md",
+    "2. Memo/참고/2024년 7월 정처기 목표 플랜.md",
+    "0. 목표/2024년 목표.md",
+    "1. 근무일지/2023/12/22 (금) 근무일지.md",
+    "2. Memo/IntelliJ",
+    "1. 근무일지/2023/12/13 (수) 근무일지.md",
+    "1. 근무일지/2023/12/14 (목) 근무일지.md",
+    "1. 근무일지/2023/12/15 (금) 근무일지.md",
+    "1. 근무일지/2023/12/18 (월) 근무일지.md",
+    "1. 근무일지/2023/12/19 (화) 근무일지.md",
+    "1. 근무일지/2023/12/20 (수) 근무일지.md",
+    "1. 근무일지/2023/12/21 (목) 근무일지.md",
+    "3. Think/Mo-Greene Code Convention.md",
+    "3. Think/단기알바/수정사항 정리.md",
+    "2. Memo/SpringBoot/패키지 구조에 대해서.md",
+    "2. Memo/SpringBoot/package-info.md",
+    "2. Memo/SpringBoot/JPA 벌크성 수정.md",
+    "2. Memo/SpringBoot/Cookie.md",
+    "2. Memo/React/QuillEditor 적용.md",
     "99. attached/Pasted image 20231220101622.png",
     "99. attached/Pasted image 20231220101046.png",
     "99. attached/Pasted image 20231220101030.png",
@@ -181,44 +205,23 @@
     "99. attached/Pasted image 20231220095321.png",
     "99. attached/Pasted image 20231220094951.png",
     "99. attached/Pasted image 20231220094848.png",
-    "99. attached",
+    "무제 파일.md",
     "3. Think/단기알바/프로모션 로직.canvas",
-    "3. Think/단기알바/수정사항 정리.md",
-    "3. Think/단기알바",
-    "3. Think/Mo-Greene Code Convention.md",
-    "2. Memo/SpringBoot/패키지 구조에 대해서.md",
-    "1. 근무일지/2023/12/20 (수) 근무일지.md",
-    "1. 근무일지/2023/12/19 (화) 근무일지.md",
-    "1. 근무일지/2023/12/18 (월) 근무일지.md",
-    "1. 근무일지/2023/12/15 (금) 근무일지.md",
-    "1. 근무일지/2023/12/14 (목) 근무일지.md",
-    "1. 근무일지/2023/12/13 (수) 근무일지.md",
     "1. 근무일지/2023/12/12 (화) 근무일지.md",
     "1. 근무일지/2023/12/11 (월) 근무일지.md",
     "1. 근무일지/2023/12/07 (목) 근무일지.md",
     "1. 근무일지/2023/12/06 (수) 근무일지.md",
     "1. 근무일지/2023/12/05 (화) 근무일지.md",
+    "3. Think/Macbook.md",
     "1. 근무일지/2023/12",
+    "1. 근무일지/23/12",
+    "1. 근무일지/23",
+    "2. Memo/SpringBoot/무제 폴더",
+    "1. 근무일지/2023/12월",
     "1. 근무일지/2023",
-    "2. Memo/참고/힘들어하는 주니어들을 위하여.md",
-    "0. 목표/2023년 목표.md",
-    "1. 근무일지/2023-12-15.md",
-    "1. 근무일지/2023-12-13.md",
-    "1. 근무일지/2023-12-14.md",
-    "4. Dev/개발론/예외처리/좋은 예외처리.md",
-    "4. Dev/개발론/TDD/외부 API 테스트 방법.md",
-    "4. Dev/개발론/TDD/SpringMVC TDD 정리.md",
-    "4. Dev/개발론/TDD/Mock.md",
-    "4. Dev/개발론/SpringBoot/SpringBoot 3.x.md",
-    "4. Dev/개발론/JPA/querydsl 과 동적쿼리.md",
-    "4. Dev/개발론/예외처리",
-    "4. Dev/개발론/TDD",
-    "4. Dev/개발론/SpringBoot",
-    "4. Dev/개발론/JPA",
-    "4. Dev/개발론/CleanCode",
-    "4. Dev/환경설정 기록",
-    "3. Think/heyjob/프로모션 로직.canvas",
-    "2. Think/heyjob/프로모션 로직.canvas",
+    "0. 목표",
+    "2. Memo/참고",
+    "2. Memo/React",
     "2. Memo/Java/무제 파일.canvas",
     "TIL/무제 파일.canvas",
     "무제 파일.canvas"
