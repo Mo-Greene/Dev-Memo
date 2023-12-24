@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 근무일지/2023/12/24 (일) 근무일지.md",
+                "file": "2. Memo/Java/nextstep/문자열 계산기.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 근무일지/2023/12/24 (일) 근무일지.md",
+                "file": "2. Memo/Java/nextstep/문자열 계산기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 근무일지/2023/12/24 (일) 근무일지.md",
+                "file": "2. Memo/Java/nextstep/문자열 계산기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 근무일지/2023/12/24 (일) 근무일지.md"
+                "file": "2. Memo/Java/nextstep/문자열 계산기.md"
               }
             }
           }
@@ -175,9 +175,11 @@
   },
   "active": "bf4b5fc09bc3dfee",
   "lastOpenFiles": [
+    "2. Memo/Java/nextstep",
+    "1. 근무일지/2023/12/24 (일) 근무일지.md",
+    "2. Memo/Java/nextstep/문자열 계산기.md",
     "1. 근무일지/2023/12/21 (목) 근무일지.md",
     "1. 근무일지/2023/12/22 (금) 근무일지.md",
-    "1. 근무일지/2023/12/24 (일) 근무일지.md",
     "1. 근무일지/2023/12/20 (수) 근무일지.md",
     "conflict-files-obsidian-git.md",
     "2. Memo/참고/2024년 7월 정처기 목표 플랜.md",
@@ -215,8 +217,6 @@
     "0. 목표/2023년 목표.md",
     "1. 근무일지/2023-12-15.md",
     "1. 근무일지/2023-12-13.md",
-    "1. 근무일지/2023-12-14.md",
-    "4. Dev/개발론/예외처리/좋은 예외처리.md",
     "4. Dev/개발론/예외처리",
     "4. Dev/개발론/TDD",
     "4. Dev/개발론/SpringBoot",
