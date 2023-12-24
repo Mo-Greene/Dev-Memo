@@ -11,10 +11,11 @@
             "id": "bf4b5fc09bc3dfee",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -111,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. 근무일지/2023/12/20 (수) 근무일지.md"
+              }
             }
           }
         ],
@@ -168,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71454ac97e793db4",
+  "active": "bf4b5fc09bc3dfee",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "99. attached/Pasted image 20231220101622.png",
