@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 근무일지/2023/12/29 (금) 근무일지.md",
+                "file": "1. 근무일지/2024/01/05 (금) 근무일지.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#참고",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 근무일지/2023/12/29 (금) 근무일지.md",
+                "file": "1. 근무일지/2024/01/05 (금) 근무일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 근무일지/2023/12/29 (금) 근무일지.md",
+                "file": "1. 근무일지/2024/01/05 (금) 근무일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 근무일지/2023/12/29 (금) 근무일지.md"
+                "file": "1. 근무일지/2024/01/05 (금) 근무일지.md"
               }
             }
           }
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,13 +177,27 @@
   },
   "active": "e4dca94a7b7c239e",
   "lastOpenFiles": [
+    "1. 근무일지/2024/01/04 (목) 근무일지.md",
+    "1. 근무일지/2024/01/05 (금) 근무일지.md",
+    "1. 근무일지/2024/01/03 (수) 근무일지.md",
+    "2. Memo/Java/EventHandler 예제/event/이벤트 핸들러.md",
+    "4. Dev/환경설정 기록/ec2.md",
+    "0. 목표/2024년 목표.md",
+    "2. Memo/Java/EventHandler 예제/회원가입 서비스.md",
+    "2. Memo/Java/EventHandler 예제/event/회원가입 이벤트.md",
+    "1. 근무일지/2024/01/02 (화) 근무일지.md",
+    "2. Memo/Java/EventHandler 예제/회원가입 컨트롤러.md",
+    "3. Think/Mo-Greene Code Convention.md",
+    "2. Memo/Java/EventHandler 예제/event",
+    "2. Memo/Java/EventHandler 예제",
+    "1. 근무일지/2023/12/26 (화) 근무일지.md",
+    "1. 근무일지/2023/12/27 (수) 근무일지.md",
     "1. 근무일지/2023/12/28 (목) 근무일지.md",
     "1. 근무일지/2023/12/29 (금) 근무일지.md",
-    "1. 근무일지/2023/12/27 (수) 근무일지.md",
-    "1. 근무일지/2023/12/26 (화) 근무일지.md",
+    "1. 근무일지/2024/01",
+    "1. 근무일지/2024",
     "2. Memo/무제 파일.md",
     "2. Memo/nginx/Nginx란.md",
-    "0. 목표/2024년 목표.md",
     "2. Memo/nginx",
     "1. 근무일지/2023/12/24 (일) 근무일지.md",
     "2. Memo/Java/nextstep/문자열 계산기.md",
@@ -196,16 +210,6 @@
     "1. 근무일지/2023/12/13 (수) 근무일지.md",
     "1. 근무일지/2023/12/14 (목) 근무일지.md",
     "1. 근무일지/2023/12/15 (금) 근무일지.md",
-    "1. 근무일지/2023/12/18 (월) 근무일지.md",
-    "1. 근무일지/2023/12/19 (화) 근무일지.md",
-    "1. 근무일지/2023/12/20 (수) 근무일지.md",
-    "1. 근무일지/2023/12/21 (목) 근무일지.md",
-    "3. Think/Mo-Greene Code Convention.md",
-    "3. Think/단기알바/수정사항 정리.md",
-    "2. Memo/SpringBoot/패키지 구조에 대해서.md",
-    "2. Memo/SpringBoot/package-info.md",
-    "2. Memo/SpringBoot/JPA 벌크성 수정.md",
-    "2. Memo/SpringBoot/Cookie.md",
     "99. attached/Pasted image 20231220101622.png",
     "99. attached/Pasted image 20231220101046.png",
     "99. attached/Pasted image 20231220101030.png",
@@ -220,10 +224,6 @@
     "1. 근무일지/2023/12",
     "1. 근무일지/23/12",
     "1. 근무일지/23",
-    "2. Memo/SpringBoot/무제 폴더",
-    "1. 근무일지/2023/12월",
-    "1. 근무일지/2023",
-    "0. 목표",
     "2. Memo/Java/무제 파일.canvas",
     "TIL/무제 파일.canvas",
     "무제 파일.canvas"
