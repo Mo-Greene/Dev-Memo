@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 근무일지/2024/01/10 (수) 근무일지.md",
+                "file": "1. 근무일지/2024/01/16 (화) 근무일지.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 근무일지/2024/01/10 (수) 근무일지.md",
+                "file": "1. 근무일지/2024/01/16 (화) 근무일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 근무일지/2024/01/10 (수) 근무일지.md",
+                "file": "1. 근무일지/2024/01/16 (화) 근무일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 근무일지/2024/01/10 (수) 근무일지.md"
+                "file": "1. 근무일지/2024/01/16 (화) 근무일지.md"
               }
             }
           }
@@ -177,8 +177,14 @@
   },
   "active": "e4dca94a7b7c239e",
   "lastOpenFiles": [
-    "1. 근무일지/2024/01/03 (수) 근무일지.md",
+    "1. 근무일지/2024/01/15 (월) 근무일지.md",
+    "1. 근무일지/2024/01/16 (화) 근무일지.md",
+    "1. 근무일지/2024/01/12 (금) 근무일지.md",
+    "1. 근무일지/2024/01/11 (목) 근무일지.md",
+    "0. 목표/2024년 목표.md",
+    "0. 목표/2023년 목표.md",
     "1. 근무일지/2024/01/10 (수) 근무일지.md",
+    "1. 근무일지/2024/01/03 (수) 근무일지.md",
     "1. 근무일지/2024/01/09 (화) 근무일지.md",
     "1. 근무일지/2024/01/05 (금) 근무일지.md",
     "1. 근무일지/2024/01/04 (목) 근무일지.md",
@@ -187,7 +193,6 @@
     "2. Memo/nginx/Nginx란.md",
     "2. Memo/Java/EventHandler 예제/event/이벤트 핸들러.md",
     "4. Dev/환경설정 기록/ec2.md",
-    "0. 목표/2024년 목표.md",
     "2. Memo/Java/EventHandler 예제/회원가입 서비스.md",
     "2. Memo/Java/EventHandler 예제/event/회원가입 이벤트.md",
     "2. Memo/Java/EventHandler 예제/회원가입 컨트롤러.md",
@@ -203,12 +208,7 @@
     "2. Memo/무제 파일.md",
     "2. Memo/nginx",
     "1. 근무일지/2023/12/24 (일) 근무일지.md",
-    "2. Memo/Java/nextstep/문자열 계산기.md",
     "2. Memo/Java/nextstep",
-    "0. 목표/2023년 목표.md",
-    "2. Memo/IntelliJ/IntelliJ Http Client.md",
-    "2. Memo/참고/2024년 7월 정처기 목표 플랜.md",
-    "1. 근무일지/2023/12/22 (금) 근무일지.md",
     "2. Memo/IntelliJ",
     "99. attached/Pasted image 20231220101622.png",
     "99. attached/Pasted image 20231220101046.png",
