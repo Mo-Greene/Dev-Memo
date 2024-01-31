@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Memo/Docker/jenkins/Docker Jenkins.md",
+                "file": "1. 근무일지/2024/01/31 (수) 근무일지.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Memo/Docker/jenkins/Docker Jenkins.md",
+                "file": "1. 근무일지/2024/01/31 (수) 근무일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Memo/Docker/jenkins/Docker Jenkins.md",
+                "file": "1. 근무일지/2024/01/31 (수) 근무일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Memo/Docker/jenkins/Docker Jenkins.md"
+                "file": "1. 근무일지/2024/01/31 (수) 근무일지.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "80f391b057ab1151",
   "lastOpenFiles": [
+    "2. Memo/Docker/jenkins/Docker Jenkins.md",
     "Pasted image 20240131125450.png",
     "2. Memo/Docker/nginx/Nginx란.md",
     "2. Memo/IntelliJ/JavaMailSender 인라인css.md",
@@ -200,7 +201,6 @@
     "4. Dev/환경설정 기록/mysql.md",
     "4. Dev/환경설정 기록/Nginx 기본.md",
     "4. Dev/환경설정 기록/SpringBoot.md",
-    "2. Memo/Docker/jenkins/Docker Jenkins.md",
     "Pasted image 20240131115848.png",
     "Pasted image 20240131115746.png",
     "Pasted image 20240131115609.png",
@@ -234,7 +234,6 @@
     "99. attached/Pasted image 20231220101030.png",
     "99. attached/Pasted image 20231220100743.png",
     "99. attached/Pasted image 20231220100306.png",
-    "99. attached/Pasted image 20231220100104.png",
     "2. Memo/Java/무제 파일.canvas",
     "TIL/무제 파일.canvas"
   ]
