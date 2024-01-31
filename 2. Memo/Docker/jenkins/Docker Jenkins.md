@@ -87,3 +87,60 @@ Finished: UNSTABLE
 빌드가 진행되지 않는다;;
 ![[Pasted image 20240131125450.png]]
 7분째 ing.. 하다가 짜증나서 그만뒀다.
+
+
+``` shell
+pipeline {
+    agent any
+
+    stages {
+        stage('clone') {
+            steps {
+                git credentialsId: 'github-access', 
+                url: 'https://github.com/Mo-Greene/Today-Algorithm.git'
+            }
+        }
+        
+        stage('build') {
+            steps {
+                sh'''
+                    echo ">> build start"
+                    ./gradlew clean build
+                '''
+                
+            }
+        }
+        
+        stage('publish on ssh') {
+            steps {
+                sshPublisher(
+                    publishers: [
+                        sshPublisherDesc(
+                            configName: 'Dev-Mo',
+                            transfers: [
+                                sshTransfer(
+                                    cleanRemote: false,
+                                    excludes: '',
+                                    execCommand: 'sh /home/ubuntu/script/server.sh',
+                                    execTimeout: 120000, 
+                                    flatten: false, 
+                                    makeEmptyDirs: false, 
+                                    noDefaultExcludes: false,
+                                    patternSeparator: '[, ]+',
+                                    remoteDirectory: '/app', 
+                                    remoteDirectorySDF: false, 
+                                    removePrefix: 'build/libs', 
+                                    sourceFiles: 'build/libs/app.jar'
+                                )
+                            ], 
+                            usePromotionTimestamp: false,
+                            useWorkspaceInPromotion: false,
+                            verbose: true
+                        )
+                    ]
+                )
+            }
+        }
+    }
+}
+```
