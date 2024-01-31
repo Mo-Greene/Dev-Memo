@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Memo/참고/좋은 API Response 만들기.md",
+                "file": "2. Memo/Docker/jenkins/Docker Jenkins.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Memo/참고/좋은 API Response 만들기.md",
+                "file": "2. Memo/Docker/jenkins/Docker Jenkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Memo/참고/좋은 API Response 만들기.md",
+                "file": "2. Memo/Docker/jenkins/Docker Jenkins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Memo/참고/좋은 API Response 만들기.md"
+                "file": "2. Memo/Docker/jenkins/Docker Jenkins.md"
               }
             }
           },
@@ -185,42 +185,48 @@
   },
   "active": "80f391b057ab1151",
   "lastOpenFiles": [
-    "1. 근무일지/2024/01/23 (화) 근무일지.md",
+    "Pasted image 20240131125450.png",
+    "2. Memo/Docker/nginx/Nginx란.md",
+    "2. Memo/IntelliJ/JavaMailSender 인라인css.md",
+    "2. Memo/IntelliJ/IntelliJ Http Client.md",
+    "4. Dev/환경설정 기록/ubuntu.md",
+    "4. Dev/환경설정 기록/Docker.md",
+    "4. Dev/환경설정 기록/인텔리제이.md",
+    "4. Dev/환경설정 기록/ec2.md",
+    "4. Dev/환경설정 기록/git.md",
+    "4. Dev/환경설정 기록/java.md",
+    "4. Dev/환경설정 기록/JAVA 윈도우 터미널 작성법.md",
+    "4. Dev/환경설정 기록/Mac iterm2.md",
+    "4. Dev/환경설정 기록/mysql.md",
+    "4. Dev/환경설정 기록/Nginx 기본.md",
+    "4. Dev/환경설정 기록/SpringBoot.md",
+    "2. Memo/Docker/jenkins/Docker Jenkins.md",
+    "Pasted image 20240131115848.png",
+    "Pasted image 20240131115746.png",
+    "Pasted image 20240131115609.png",
+    "1. 근무일지/2024/01/31 (수) 근무일지.md",
+    "Pasted image 20240131084038.png",
+    "2. Memo/Docker",
+    "2. Memo/Docker/jenkins",
+    "1. 근무일지/2024/01/30 (화) 근무일지.md",
     "2. Memo/참고/좋은 API Response 만들기.md",
+    "1. 근무일지/2024/01/26 (금) 근무일지.md",
+    "1. 근무일지/2024/01/25 (목) 근무일지.md",
+    "1. 근무일지/2024/01/24 (수) 근무일지.md",
+    "1. 근무일지/2024/01/23 (화) 근무일지.md",
     "1. 근무일지/2024/01/22 (월) 근무일지.md",
     "0. 목표/2024년 목표.md",
     "0. 목표/2023년 목표.md",
-    "1. 근무일지/2023/12/15 (금) 근무일지.md",
-    "1. 근무일지/2024/01/19 (금) 근무일지.md",
-    "1. 근무일지/2024/01/18 (목) 근무일지.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
-    "3. Think/sunjin/jjblab 수정사항.md",
     "3. Think/단기알바/프로모션 로직.canvas",
-    "3. Think/단기알바/수정사항 정리.md",
-    "3. Think/Macbook.md",
-    "1. 근무일지/2023/12/26 (화) 근무일지.md",
-    "1. 근무일지/2024/01/15 (월) 근무일지.md",
-    "1. 근무일지/2024/01/17 (수) 근무일지.md",
     "3. Think/sunjin",
-    "1. 근무일지/2023/12/08 (금) 근무일지.md",
-    "1. 근무일지/2024/01/16 (화) 근무일지.md",
-    "1. 근무일지/2024/01/12 (금) 근무일지.md",
-    "1. 근무일지/2024/01/11 (목) 근무일지.md",
-    "1. 근무일지/2024/01/10 (수) 근무일지.md",
-    "1. 근무일지/2024/01/03 (수) 근무일지.md",
-    "1. 근무일지/2024/01/09 (화) 근무일지.md",
-    "1. 근무일지/2024/01/05 (금) 근무일지.md",
-    "1. 근무일지/2024/01/04 (목) 근무일지.md",
-    "1. 근무일지/2024/01/02 (화) 근무일지.md",
-    "1. 근무일지/2024/01/08 (월) 근무일지.md",
-    "2. Memo/nginx/Nginx란.md",
     "2. Memo/Java/EventHandler 예제/event",
     "2. Memo/Java/EventHandler 예제",
     "1. 근무일지/2024/01",
     "1. 근무일지/2024",
-    "2. Memo/nginx",
+    "2. Memo/Docker/nginx",
     "2. Memo/Java/nextstep",
     "2. Memo/IntelliJ",
     "99. attached/Pasted image 20231220101622.png",
@@ -229,12 +235,6 @@
     "99. attached/Pasted image 20231220100743.png",
     "99. attached/Pasted image 20231220100306.png",
     "99. attached/Pasted image 20231220100104.png",
-    "99. attached/Pasted image 20231220095624.png",
-    "99. attached/Pasted image 20231220095321.png",
-    "99. attached/Pasted image 20231220094951.png",
-    "99. attached/Pasted image 20231220094848.png",
-    "1. 근무일지/2023/12",
-    "1. 근무일지/23/12",
     "2. Memo/Java/무제 파일.canvas",
     "TIL/무제 파일.canvas"
   ]
