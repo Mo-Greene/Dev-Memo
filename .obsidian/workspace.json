@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Memo/IntelliJ/새로운 템플릿 혹은 모듈 이름 변경.md",
+                "file": "1. 근무일지/2024/02/02 (금) 근무일지.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Memo/IntelliJ/새로운 템플릿 혹은 모듈 이름 변경.md",
+                "file": "1. 근무일지/2024/02/02 (금) 근무일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Memo/IntelliJ/새로운 템플릿 혹은 모듈 이름 변경.md",
+                "file": "1. 근무일지/2024/02/02 (금) 근무일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Memo/IntelliJ/새로운 템플릿 혹은 모듈 이름 변경.md"
+                "file": "1. 근무일지/2024/02/02 (금) 근무일지.md"
               }
             }
           },
@@ -183,11 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80f391b057ab1151",
+  "active": "d0041fd4e8d68551",
   "lastOpenFiles": [
+    "2. Memo/IntelliJ/새로운 템플릿 혹은 모듈 이름 변경.md",
     "99. attached/Pasted image 20240202083155.png",
     "99. attached/Pasted image 20240202083136.png",
-    "2. Memo/IntelliJ/새로운 템플릿 혹은 모듈 이름 변경.md",
     "99. attached/Pasted image 20240202083135.png",
     "2. Memo/IntelliJ/IntelliJ Http Client.md",
     "99. attached/Pasted image 20240202083038.png",
@@ -234,7 +234,6 @@
     "1. 근무일지/2024",
     "2. Memo/Docker/nginx",
     "99. attached/Pasted image 20231220101622.png",
-    "99. attached/Pasted image 20231220101046.png",
     "2. Memo/Java/무제 파일.canvas",
     "TIL/무제 파일.canvas"
   ]
